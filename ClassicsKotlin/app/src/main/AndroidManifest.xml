@@ -15,8 +15,7 @@
   ~ limitations under the License.
   -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    package="com.android.tv.classics">
+    xmlns:tools="http://schemas.android.com/tools">
 
     <!-- Custom permissions for our content provider -->
     <permission android:name="${applicationId}.MEDIA" android:protectionLevel="signature" />

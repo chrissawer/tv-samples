@@ -32,7 +32,7 @@ import androidx.room.Query
 import androidx.room.Update
 import androidx.tvprovider.media.tv.BasePreviewProgram
 import androidx.tvprovider.media.tv.TvContractCompat
-import kotlinx.android.parcel.Parcelize
+import kotlinx.parcelize.Parcelize
 import java.util.Locale
 
 /**
